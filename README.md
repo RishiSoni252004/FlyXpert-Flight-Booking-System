@@ -1,4 +1,4 @@
-FlyXpert - Flight Booking System
+**FlyXpert - Flight Booking System**
 
 FlyXpert is a simple flight booking system that allows users to book flight tickets and provides an admin panel to manage flights.
 
